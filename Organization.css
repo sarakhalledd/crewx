@@ -1,0 +1,33 @@
+.navmargin{
+    margin-left: 1000px;
+}
+.hi{
+    margin-left: 40%;
+    margin-top: 100px;
+}
+.do{
+    margin-top: 150px;
+    margin-left: 40%;
+}
+.buttonbar{
+    background-color: rgb(40,42,53);
+    height: 150px;
+    margin-top: 30px;
+}
+.button{
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.buttons{
+    margin-left: 35%;
+}
+.bi{
+    margin-top: 12px;
+}
+body{
+    background-color: rgb(40,42,53);
+    color: white;   
+}
+.h{
+    background-color: white;
+}
