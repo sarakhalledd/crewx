@@ -1,0 +1,61 @@
+.navmargin{
+    margin-left: 1000px;
+}
+.title{
+    margin-top: 20px;
+}
+#map{
+    margin-left: 30%;
+    margin-top: 100px;
+}
+#label{
+    margin-top: 15px;
+}
+body{
+    background-color: rgb(40,42,53);
+    width: 100%;
+    color: white;   
+}
+
+.booking{
+    margin-top: 20px;
+    margin-left: 40%;
+}
+
+.booking ul {
+    list-style: none;
+    padding: 0;
+    width: 100px;
+  }
+  
+  .booking li {
+    border: 1px outset rgb(224, 224, 224);
+    border-radius: 6px;
+    background: #ccc;
+    padding: 7px;
+    text-align: center;
+    margin-bottom: 3px;
+    font-family: Arial, sans-serif;
+    color: black;
+  }
+  
+  .booking li.checked {
+    background: yellow;
+  }
+  
+  .booking li:hover {
+    background: yellow;
+  }
+  
+  .booking li input {
+    display: none;
+  }
+  .btn{
+    margin-left: 40%;
+  }
+  .bi{
+    margin-top: 12px;
+  }
+  #navbarNav{
+    margin-left: -60px;
+  }
