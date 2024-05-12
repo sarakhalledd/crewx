@@ -1,0 +1,43 @@
+.navmargin{
+    margin-left: 1000px;
+}
+body{
+    background-color: rgb(40,42,53);
+    color: white;
+}
+.bi{
+    margin-top: 12px;
+}
+#navbarNav{
+    margin-left: -60px;
+  }
+img{
+    margin-top: 10px;
+}
+.imagetext{
+    margin-bottom: 60px;
+}
+.text{
+    position: absolute;
+    top: 80%;
+    left: 30%;
+    font-size: xx-large;
+    background-color: grey;
+}
+
+.triger{
+    margin-bottom: 40px;
+    margin-left: 30%;
+}
+.row{
+    margin-bottom: 60px;
+}
+.triger2{
+    margin-bottom: 40px;
+}
+.trigtxt{
+    margin-left: 40%;
+}
+.trigtxt2{
+    margin-left: 10%;
+}
