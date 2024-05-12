@@ -1,0 +1,22 @@
+.navmargin{
+    margin-left: 1000px;
+}
+.table{
+    margin-top: 100px;
+}
+.title{
+    margin-top: 20px;
+}
+.bi{
+    margin-top: 12px;
+}
+#navbarNav{
+    margin-left: -60px;
+  }
+  body{
+    background-color: rgb(40,42,53);
+    color: white;   
+}
+.h{
+    background-color: white;
+}
