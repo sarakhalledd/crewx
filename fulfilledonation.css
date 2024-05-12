@@ -1,0 +1,30 @@
+.navmargin{
+    margin-left: 1000px;
+}
+.button{
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.buttons{
+    margin-left: 35%;
+}
+.details{
+    margin-top: 50px;
+    background-color: white;
+}
+#secondTable{
+    display: none;
+}
+.bi{
+    margin-top: 12px;
+}
+#navbarNav{
+    margin-left: -60px;
+  }
+  body{
+    background-color: rgb(40,42,53);
+    color: white;   
+}
+.h{
+    background-color: white;
+}
